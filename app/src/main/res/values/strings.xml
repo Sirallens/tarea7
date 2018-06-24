@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tarea7</string>
+    <string name="title">RPi</string>
+    <string name="push_switch">Push Switch</string>
+    <string name="led">LED</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+</resources>
