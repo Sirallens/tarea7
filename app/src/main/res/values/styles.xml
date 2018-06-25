@@ -7,5 +7,8 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
+    <style name="SwitchCompatStyle">
+        <item name="thumbTint">@color/led_color_thumb</item>
+        <item name="trackTint">@color/led_color_track</item>
+    </style>
 </resources>
